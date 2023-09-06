@@ -14,6 +14,7 @@ Estamos en busca de profesionales talentosos para unirse a nuestro equipo en las
 ## Descripción de los Roles
 
 ### 1. Desarrollador(a)
+
 - **Responsabilidades Principales**:
   - Desarrollo y mantenimiento de aplicaciones con Vue3.
   - Integración continua con Firebase.
@@ -21,6 +22,7 @@ Estamos en busca de profesionales talentosos para unirse a nuestro equipo en las
   - Colaboración estrecha con equipos de QA y UX/UI.
 
 ### 2. Especialista en Aseguramiento de Calidad (QA)
+
 - **Responsabilidades Principales**:
   - Diseño y ejecución de pruebas estructuradas.
   - Identificación y documentación detallada de defectos.
@@ -36,15 +38,18 @@ Desarrollar una aplicación web sencilla que permita a los usuarios crear y visu
 ### Requerimientos
 
 #### 1. **Autenticación**
-   - Implementar una función de inicio de sesión donde los usuarios puedan autenticarse utilizando su cuenta de Google.
+
+- Implementar una función de inicio de sesión donde los usuarios puedan autenticarse utilizando su cuenta de Google.
 
 #### 2. **Creación y Visualización de Notas**
-   - Implementar una función que permita a los usuarios crear nuevas notas.
-   - Implementar una función que permita a los usuarios visualizar una lista de las notas creadas.
+
+- Implementar una función que permita a los usuarios crear nuevas notas.
+- Implementar una función que permita a los usuarios visualizar una lista de las notas creadas.
 
 #### 3. **Pruebas y Validaciones**
-   - Diseñar y ejecutar pruebas para validar la funcionalidad de la aplicación.
-   - Documentar cualquier defecto o área de mejora identificada durante la fase de prueba.
+
+- Diseñar y ejecutar pruebas automatizadas para validar la funcionalidad de la aplicación, utilizando cualquier librería de testing que el candidato prefiera.
+- Documentar cualquier defecto o área de mejora identificada durante la fase de prueba.
 
 ### Criterios de Evaluación
 
@@ -52,6 +57,11 @@ Desarrollar una aplicación web sencilla que permita a los usuarios crear y visu
 - **QA**: Creación de casos de prueba bien estructurados, identificación y documentación de defectos.
 - **UX/UI**: Diseño intuitivo y amigable con el usuario.
 - **Pensamiento Crítico**: Capacidad para solucionar problemas y entender los requerimientos del cliente.
+
+### Stack Tecnológico Requerido
+
+- Firebase Auth
+- Firebase Realtime Database
 
 ### Entrega
 
@@ -63,6 +73,7 @@ Desarrollar una aplicación web sencilla que permita a los usuarios crear y visu
 
 - https://cloud.google.com/
 - https://firebase.google.com/
+  https://firebase.google.com/docs/auth
 - https://firebase.google.com/docs/database/security
 
 ## Conclusión
