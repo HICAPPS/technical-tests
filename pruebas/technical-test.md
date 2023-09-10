@@ -7,7 +7,7 @@ Estamos en busca de profesionales talentosos para unirse a nuestro equipo en las
 ## Instrucciones Generales
 
 1. Crea un nuevo repositorio en tu perfil de GitHub para alojar el proyecto.
-2. Configura un nuevo proyecto en Google Cloud.
+2. Configura un nuevo proyecto Firebase.
 
 **Nota**: Asegúrate de proporcionar toda la información y pasos necesarios para ejecutar tu proyecto en el archivo README de tu repositorio.
 
